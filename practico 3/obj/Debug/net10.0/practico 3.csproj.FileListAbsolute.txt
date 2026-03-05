@@ -1,0 +1,14 @@
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\practico 3\bin\Debug\net10.0\practico 3.exe
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\practico 3\bin\Debug\net10.0\practico 3.deps.json
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\practico 3\bin\Debug\net10.0\practico 3.runtimeconfig.json
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\practico 3\bin\Debug\net10.0\practico 3.dll
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\practico 3\bin\Debug\net10.0\practico 3.pdb
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\practico 3\obj\Debug\net10.0\practico 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\practico 3\obj\Debug\net10.0\practico 3.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\practico 3\obj\Debug\net10.0\practico 3.AssemblyInfo.cs
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\practico 3\obj\Debug\net10.0\practico 3.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\practico 3\obj\Debug\net10.0\practico 3.dll
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\practico 3\obj\Debug\net10.0\refint\practico 3.dll
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\practico 3\obj\Debug\net10.0\practico 3.pdb
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\practico 3\obj\Debug\net10.0\practico 3.genruntimeconfig.cache
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\practico 3\obj\Debug\net10.0\ref\practico 3.dll
